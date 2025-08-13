@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBJfKpgcIW4=",
+  "success": true,
+  "projectFilePath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/shrek/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

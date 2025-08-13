@@ -1,0 +1,14 @@
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/bin/Debug/net9.0/Arrays
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Arrays/obj/Debug/net9.0/ref/Arrays.dll

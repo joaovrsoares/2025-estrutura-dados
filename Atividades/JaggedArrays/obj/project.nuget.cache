@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aM6lGOv/fPY=",
+  "success": true,
+  "projectFilePath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/JaggedArrays.csproj",
+  "expectedPackageFiles": [
+    "/home/shrek/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

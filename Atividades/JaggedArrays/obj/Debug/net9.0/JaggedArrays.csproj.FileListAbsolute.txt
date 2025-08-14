@@ -1,0 +1,15 @@
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/bin/Debug/net9.0/JaggedArrays
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/bin/Debug/net9.0/JaggedArrays.deps.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/bin/Debug/net9.0/JaggedArrays.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/bin/Debug/net9.0/JaggedArrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/bin/Debug/net9.0/JaggedArrays.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.sourcelink.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/refint/JaggedArrays.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/JaggedArrays.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/JaggedArrays/obj/Debug/net9.0/ref/JaggedArrays.dll

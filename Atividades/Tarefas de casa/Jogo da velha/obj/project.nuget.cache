@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcD2dRNsmqM=",
+  "success": true,
+  "projectFilePath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Tarefas de casa/Jogo da velha/Jogo da velha.csproj",
+  "expectedPackageFiles": [
+    "/home/shrek/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

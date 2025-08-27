@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c8xvLZs0DHg=",
+  "dgSpecHash": "Y1LBlLeU2eU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\443678\\Desktop\\2025-estrutura-dados\\Atividades\\Atividades em sala\\Recursividade\\Recursividade.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Recursividade/Recursividade.csproj",
+  "expectedPackageFiles": [
+    "/home/shrek/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

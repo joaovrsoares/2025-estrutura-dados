@@ -10,8 +10,6 @@ static int Fibonacci(int n)
     return Fibonacci(n - 1) + Fibonacci(n - 2); // chamada recursiva
 }
 
-
-
 /*Console.WriteLine("Digite um número para calcular a sequência de Fibonacci:");
 int n = Convert.ToInt32(Console.ReadLine());
 for (int i = 0; i <= n; i++) {

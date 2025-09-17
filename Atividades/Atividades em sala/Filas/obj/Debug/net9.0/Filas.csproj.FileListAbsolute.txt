@@ -1,0 +1,15 @@
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.sourcelink.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/bin/Debug/net9.0/Filas
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/bin/Debug/net9.0/Filas.deps.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/bin/Debug/net9.0/Filas.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/bin/Debug/net9.0/Filas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/bin/Debug/net9.0/Filas.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/refint/Filas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/Filas.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Filas/obj/Debug/net9.0/ref/Filas.dll

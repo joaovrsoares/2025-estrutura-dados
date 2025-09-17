@@ -1,0 +1,15 @@
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/bin/Debug/net9.0/Pilhas
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/bin/Debug/net9.0/Pilhas.deps.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/bin/Debug/net9.0/Pilhas.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/bin/Debug/net9.0/Pilhas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/bin/Debug/net9.0/Pilhas.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.sourcelink.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/refint/Pilhas.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/Pilhas.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Pilhas/obj/Debug/net9.0/ref/Pilhas.dll

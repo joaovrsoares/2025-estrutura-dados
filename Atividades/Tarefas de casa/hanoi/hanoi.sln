@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hanoi", "hanoi\hanoi.csproj", "{AA9E3B3F-FFDA-4FB5-BDEC-82089A33FEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9E3B3F-FFDA-4FB5-BDEC-82089A33FEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9E3B3F-FFDA-4FB5-BDEC-82089A33FEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9E3B3F-FFDA-4FB5-BDEC-82089A33FEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9E3B3F-FFDA-4FB5-BDEC-82089A33FEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

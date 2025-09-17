@@ -1,0 +1,14 @@
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\bin\Debug\net9.0\hanoi.exe
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\bin\Debug\net9.0\hanoi.deps.json
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\bin\Debug\net9.0\hanoi.runtimeconfig.json
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\bin\Debug\net9.0\hanoi.dll
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\bin\Debug\net9.0\hanoi.pdb
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.AssemblyInfoInputs.cache
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.AssemblyInfo.cs
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.csproj.CoreCompileInputs.cache
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.dll
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\refint\hanoi.dll
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.pdb
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\hanoi.genruntimeconfig.cache
+C:\Users\adm.joao\RiderProjects\hanoi\hanoi\obj\Debug\net9.0\ref\hanoi.dll

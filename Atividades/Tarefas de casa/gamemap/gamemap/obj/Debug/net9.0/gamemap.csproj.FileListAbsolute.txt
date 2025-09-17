@@ -1,0 +1,14 @@
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\bin\Debug\net9.0\gamemap.exe
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\bin\Debug\net9.0\gamemap.deps.json
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\bin\Debug\net9.0\gamemap.runtimeconfig.json
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\bin\Debug\net9.0\gamemap.dll
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\bin\Debug\net9.0\gamemap.pdb
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.AssemblyInfoInputs.cache
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.AssemblyInfo.cs
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.csproj.CoreCompileInputs.cache
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.dll
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\refint\gamemap.dll
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.pdb
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\gamemap.genruntimeconfig.cache
+C:\Users\adm.joao\RiderProjects\gamemap\gamemap\obj\Debug\net9.0\ref\gamemap.dll

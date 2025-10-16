@@ -1,0 +1,15 @@
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.exe
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.deps.json
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.runtimeconfig.json
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.dll
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\bin\Debug\net9.0\ArvoreBinaria.pdb
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfoInputs.cache
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.AssemblyInfo.cs
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.sourcelink.json
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.dll
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\refint\ArvoreBinaria.dll
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.pdb
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ArvoreBinaria.genruntimeconfig.cache
+E:\@home\shrek\Programação\Estrutura de dados - Prof. Mauricio Gonzatto\Atividades\Atividades em sala\ArvoreBinaria\obj\Debug\net9.0\ref\ArvoreBinaria.dll

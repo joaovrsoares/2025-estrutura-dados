@@ -2,8 +2,8 @@
 
 class Program
 {
-    private const int DISCS_COUNT = 7;
-    private const int DELAY_MS = 50;
+    private const int DISCS_COUNT = 10;
+    private const int DELAY_MS = 5;
     private static int _columnSize = 30;
     static void Main(string[] args)
     {

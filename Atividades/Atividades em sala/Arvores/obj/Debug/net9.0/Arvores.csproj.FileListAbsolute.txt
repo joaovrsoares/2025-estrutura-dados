@@ -1,0 +1,15 @@
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/bin/Debug/net9.0/Arvores
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/bin/Debug/net9.0/Arvores.deps.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/bin/Debug/net9.0/Arvores.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/bin/Debug/net9.0/Arvores.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/bin/Debug/net9.0/Arvores.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.sourcelink.json
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/refint/Arvores.dll
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.pdb
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/Arvores.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Atividades em sala/Arvores/obj/Debug/net9.0/ref/Arvores.dll

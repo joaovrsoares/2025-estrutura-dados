@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adm.joao\\.nuget\\packages\\": {}
+    "/home/shrek/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adm.joao\\RiderProjects\\hanoi\\hanoi\\hanoi.csproj",
+      "projectUniqueName": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Tarefas de casa/hanoi/hanoi/hanoi.csproj",
       "projectName": "hanoi",
-      "projectPath": "C:\\Users\\adm.joao\\RiderProjects\\hanoi\\hanoi\\hanoi.csproj",
-      "packagesPath": "C:\\Users\\adm.joao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adm.joao\\RiderProjects\\hanoi\\hanoi\\obj\\",
+      "projectPath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Tarefas de casa/hanoi/hanoi/hanoi.csproj",
+      "packagesPath": "/home/shrek/.nuget/packages/",
+      "outputPath": "/home/shrek/Programação/Estrutura de dados - Prof. Mauricio Gonzatto/Atividades/Tarefas de casa/hanoi/hanoi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adm.joao\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/shrek/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -60,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.8, 9.0.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+/home/shrek/RiderProjects/SearchAlgorithms/bin/Debug/net10.0/SearchAlgorithms
+/home/shrek/RiderProjects/SearchAlgorithms/bin/Debug/net10.0/SearchAlgorithms.deps.json
+/home/shrek/RiderProjects/SearchAlgorithms/bin/Debug/net10.0/SearchAlgorithms.runtimeconfig.json
+/home/shrek/RiderProjects/SearchAlgorithms/bin/Debug/net10.0/SearchAlgorithms.dll
+/home/shrek/RiderProjects/SearchAlgorithms/bin/Debug/net10.0/SearchAlgorithms.pdb
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.AssemblyInfoInputs.cache
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.AssemblyInfo.cs
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.csproj.CoreCompileInputs.cache
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.dll
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/refint/SearchAlgorithms.dll
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.pdb
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/SearchAlgorithms.genruntimeconfig.cache
+/home/shrek/RiderProjects/SearchAlgorithms/obj/Debug/net10.0/ref/SearchAlgorithms.dll

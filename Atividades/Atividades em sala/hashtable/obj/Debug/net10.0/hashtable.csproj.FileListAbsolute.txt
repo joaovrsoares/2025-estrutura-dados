@@ -1,0 +1,15 @@
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.AssemblyInfoInputs.cache
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.AssemblyInfo.cs
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.csproj.CoreCompileInputs.cache
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.sourcelink.json
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/bin/Debug/net10.0/hashtable
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/bin/Debug/net10.0/hashtable.deps.json
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/bin/Debug/net10.0/hashtable.runtimeconfig.json
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/bin/Debug/net10.0/hashtable.dll
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/bin/Debug/net10.0/hashtable.pdb
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.dll
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/refint/hashtable.dll
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.pdb
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/hashtable.genruntimeconfig.cache
+/home/shrek/Programação/Estrutura de dados/Atividades/Atividades em sala/hashtable/obj/Debug/net10.0/ref/hashtable.dll

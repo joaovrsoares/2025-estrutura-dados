@@ -1,0 +1,14 @@
+/home/shrek/RiderProjects/Dictionaries/bin/Debug/net10.0/Dictionaries
+/home/shrek/RiderProjects/Dictionaries/bin/Debug/net10.0/Dictionaries.deps.json
+/home/shrek/RiderProjects/Dictionaries/bin/Debug/net10.0/Dictionaries.runtimeconfig.json
+/home/shrek/RiderProjects/Dictionaries/bin/Debug/net10.0/Dictionaries.dll
+/home/shrek/RiderProjects/Dictionaries/bin/Debug/net10.0/Dictionaries.pdb
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.AssemblyInfoInputs.cache
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.AssemblyInfo.cs
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.dll
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/refint/Dictionaries.dll
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.pdb
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/Dictionaries.genruntimeconfig.cache
+/home/shrek/RiderProjects/Dictionaries/obj/Debug/net10.0/ref/Dictionaries.dll

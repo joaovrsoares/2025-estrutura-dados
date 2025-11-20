@@ -1,0 +1,14 @@
+C:\Users\joao\Desktop\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.exe
+C:\Users\joao\Desktop\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.deps.json
+C:\Users\joao\Desktop\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.runtimeconfig.json
+C:\Users\joao\Desktop\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.dll
+C:\Users\joao\Desktop\BuscaLinearSentinela\bin\Debug\net9.0\BuscaLinearSentinela.pdb
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.AssemblyInfoInputs.cache
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.AssemblyInfo.cs
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.dll
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\refint\BuscaLinearSentinela.dll
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.pdb
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\BuscaLinearSentinela.genruntimeconfig.cache
+C:\Users\joao\Desktop\BuscaLinearSentinela\obj\Debug\net9.0\ref\BuscaLinearSentinela.dll
